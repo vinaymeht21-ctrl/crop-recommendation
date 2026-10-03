@@ -27,7 +27,7 @@ requirements-dev.txt       Adds notebook dependencies
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/crop-recommendation.git
+git clone https://github.com/vinaymeht21-ctrl/crop-recommendation.git
 cd crop-recommendation
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
