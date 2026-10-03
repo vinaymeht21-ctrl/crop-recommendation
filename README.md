@@ -2,7 +2,7 @@
 
 A machine learning web app that recommends the best crop to plant from soil nutrients (N, P, K), pH, temperature, humidity and rainfall.
 
-**Live demo:** https://YOUR-APP-NAME.streamlit.app
+**Live demo:** https://cropp-recommendation.streamlit.app/
 
 ## How it works
 
