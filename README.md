@@ -34,7 +34,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-To re-train the model, install `requirements-dev.txt`, open the notebook in `notebooks/` and run all cells.
+To re-train the model, install `requirements.txt`, open the notebook in `notebooks/` and run all cells.
 
 ## Deploy (free)
 
